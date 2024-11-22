@@ -1,0 +1,3 @@
+.env.loginscript
+secret/
+node_modules/
